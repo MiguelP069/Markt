@@ -1,0 +1,13 @@
+streamlit
+
+yfinance
+
+pandas
+
+numpy
+
+plotly
+
+feedparser
+
+ta
