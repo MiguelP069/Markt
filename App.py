@@ -26,7 +26,7 @@ from plotly.subplots import make_subplots
 
 try:
 
-    import ta
+  import ta
 
     TA_AVAILABLE = True
 
